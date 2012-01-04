@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="clock_base.png">images/clock_base.png</file>
+        <file alias="hour_hand.png">images/hour_hand.png</file>
+        <file alias="lights_off.png">images/lights_off.png</file>
+        <file alias="lights_on.png">images/lights_on.png</file>
+        <file alias="minute_hand.png">images/minute_hand.png</file>
+        <file alias="second_hand.png">images/second_hand.png</file>
+        <file alias="Clock.qml">qml/christmas_tree/Clock.qml</file>
+        <file alias="main.qml">qml/christmas_tree/main.qml</file>
+    </qresource>
+</RCC>
